@@ -41,3 +41,9 @@
 
 Вывод: такой метод влияет на сетевой трафик (меняет динамически адреса), но не на браузер
 
+### Tor Browser
+Скачала Tor Browser, распаковала его и применила
+<img width="2758" height="1432" alt="image" src="https://github.com/user-attachments/assets/14b79190-cf86-47c4-95cc-1334dd4b4bec" />
+<img width="2692" height="1518" alt="image" src="https://github.com/user-attachments/assets/2ff4cb26-0bcf-4467-ac0b-da684351ef41" />
+<img width="2750" height="1522" alt="image" src="https://github.com/user-attachments/assets/80daeb8b-be1f-4422-addc-1ff67ae1b457" />
+<img width="2760" height="1550" alt="image" src="https://github.com/user-attachments/assets/c1859e47-1b8d-438d-875f-3dcf0aacf175" />
