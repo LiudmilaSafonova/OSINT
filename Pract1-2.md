@@ -48,10 +48,14 @@
 <img width="2750" height="1522" alt="image" src="https://github.com/user-attachments/assets/80daeb8b-be1f-4422-addc-1ff67ae1b457" />
 <img width="2760" height="1550" alt="image" src="https://github.com/user-attachments/assets/c1859e47-1b8d-438d-875f-3dcf0aacf175" />
 
+Маршрутизирует трафик через луковую сеть Tor и полностью стандартизирует цифровой отпечаток браузера под единый шаблон для пользователей Tor. Все равно не получилось стандартизтровать фингерпринт, т.к. все равно пользователей с линукс и тор мало
+
 ### Brave Browser
 С этим получаем уникальный фингерпринт и уникальную генерацию canvas
 <img width="2302" height="776" alt="image" src="https://github.com/user-attachments/assets/c5525bd1-8989-4888-92ce-dad9e0cd5929" />
 на device.me вся информация по моему устройству реальному. 
+
+Использует рандомизацию отпечатка, к примеру canvas получился достаточно размытым
 
 ### Firefox
 
@@ -64,6 +68,8 @@
 
 <img width="1886" height="800" alt="image" src="https://github.com/user-attachments/assets/47a3cf4a-b145-415c-8c4b-2429dfa9077c" />
 
+IP остался таким же как и был, но данные браузера были скрыты
+
 ### User-Agent Switcher and Manager
 
 <img width="2738" height="1362" alt="image" src="https://github.com/user-attachments/assets/9c04f504-25b7-43da-8664-0bcd5b2913a1" />
@@ -74,5 +80,7 @@
 <img width="2414" height="840" alt="image" src="https://github.com/user-attachments/assets/701035ed-bf15-4508-b9b0-dabc40fc3ace" />
 <img width="1718" height="1362" alt="image" src="https://github.com/user-attachments/assets/6ac381ad-71ae-4b08-8408-221643d6c3b6" />
 
-время и ip-адрес мои
+время и ip-адрес мои.
+
+Позволяет на уровне браузера менять хэдеры (`User-Agent`) к запросам html
 
