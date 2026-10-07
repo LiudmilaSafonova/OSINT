@@ -47,3 +47,32 @@
 <img width="2692" height="1518" alt="image" src="https://github.com/user-attachments/assets/2ff4cb26-0bcf-4467-ac0b-da684351ef41" />
 <img width="2750" height="1522" alt="image" src="https://github.com/user-attachments/assets/80daeb8b-be1f-4422-addc-1ff67ae1b457" />
 <img width="2760" height="1550" alt="image" src="https://github.com/user-attachments/assets/c1859e47-1b8d-438d-875f-3dcf0aacf175" />
+
+### Brave Browser
+С этим получаем уникальный фингерпринт и уникальную генерацию canvas
+<img width="2302" height="776" alt="image" src="https://github.com/user-attachments/assets/c5525bd1-8989-4888-92ce-dad9e0cd5929" />
+на device.me вся информация по моему устройству реальному. 
+
+### Firefox
+
+<img width="2774" height="728" alt="image" src="https://github.com/user-attachments/assets/32be6448-66dc-4ad7-b162-14018b3d14ad" />
+изменила `privacy.resistFingerprinting` на true
+
+<img width="2492" height="950" alt="image" src="https://github.com/user-attachments/assets/8b839ed3-6114-47ad-a5d4-5c62e9fe6fc9" />
+<img width="2192" height="1252" alt="image" src="https://github.com/user-attachments/assets/846cea79-f378-469b-bbe5-80d68388e97f" />
+на device.me вся информация по моему устройству реальному. 
+
+<img width="1886" height="800" alt="image" src="https://github.com/user-attachments/assets/47a3cf4a-b145-415c-8c4b-2429dfa9077c" />
+
+### User-Agent Switcher and Manager
+
+<img width="2738" height="1362" alt="image" src="https://github.com/user-attachments/assets/9c04f504-25b7-43da-8664-0bcd5b2913a1" />
+<img width="2718" height="1178" alt="image" src="https://github.com/user-attachments/assets/65adadea-87df-42be-88b1-b14c09e81971" />
+<img width="1980" height="1266" alt="image" src="https://github.com/user-attachments/assets/75546ee8-9bea-41e2-add4-04930c8e5020" />
+<img width="2444" height="1132" alt="image" src="https://github.com/user-attachments/assets/905805d1-f8cd-44fa-b417-5d37197e29d4" />
+
+<img width="2414" height="840" alt="image" src="https://github.com/user-attachments/assets/701035ed-bf15-4508-b9b0-dabc40fc3ace" />
+<img width="1718" height="1362" alt="image" src="https://github.com/user-attachments/assets/6ac381ad-71ae-4b08-8408-221643d6c3b6" />
+
+время и ip-адрес мои
+
